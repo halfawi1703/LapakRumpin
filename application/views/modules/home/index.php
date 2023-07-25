@@ -32,7 +32,7 @@
               <div class="row content">
                   <div class="col-lg-6">
                       <p>
-                          Selamat datang di [Nama Usaha], layanan pembuatan website yang dipercaya oleh bisnis dan individu untuk menciptakan kehadiran online yang menonjol. Kami adalah tim ahli yang berdedikasi untuk memberikan solusi website berkualitas tinggi dan responsif yang sesuai dengan visi dan tujuan Anda.
+                          Selamat datang di LapakRumpin, layanan pembuatan website yang dipercaya oleh bisnis dan individu untuk menciptakan kehadiran online yang menonjol. Kami adalah tim ahli yang berdedikasi untuk memberikan solusi website berkualitas tinggi dan responsif yang sesuai dengan visi dan tujuan Anda.
                       </p>
                       <p>Mengapa Memilih Kami?</p>
                       <ul>

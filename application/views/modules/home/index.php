@@ -291,7 +291,7 @@
                           <div class="phone">
                               <i class="bi bi-phone"></i>
                               <h4>Call:</h4>
-                              <p>+62 819-3259-4359</p>
+                              <p>+62 821-1344-5443</p>
                           </div>
 
                           <iframe src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=JL. Beruang II no. 80 RT. 02 RW. 02&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>

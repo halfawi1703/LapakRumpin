@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>LapakRumpin</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <title>LapakRumpin - Jasa Pembuatan Website Profesional</title>
+  <meta content="Tim ahli kami siap membantu mewujudkan website impian Anda. Dapatkan solusi desain web kreatif dan responsif untuk berbagai jenis bisnis dan kebutuhan personal. Hubungi kami sekarang untuk konsultasi gratis." name="description">
+  <meta name="keywords" content="jasa pembuatan website, desain web kreatif, pembuatan website profesional, layanan desain website, buat website bisnis, jasa website murah, website responsif, lapakrumpin, lapak, rumpin, web developer terpercaya, pembuatan website personal">
 
   <!-- Favicons -->
   <link href="<?php echo base_url('assets') ?>/img/favicon.ico" rel="icon">

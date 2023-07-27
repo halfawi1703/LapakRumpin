@@ -145,7 +145,7 @@
               <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
                   <div class="col-lg-6 col-md-6 portfolio-item">
-                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/pertamina-pdc.png" class="img-fluid" alt=""></div>
+                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/pertamina-pdc.png" class="img-fluid" alt="Menjelajahi Sejarah dan Prestasi Perusahaan melalui Company Profile"></div>
                       <div class="portfolio-info">
                           <h4>Company Profile</h4>
                           <p>Pertamina PDC</p>
@@ -155,7 +155,7 @@
                   </div>
 
                   <div class="col-lg-6 col-md-6 portfolio-item">
-                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/skynet.png" class="img-fluid" alt=""></div>
+                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/skynet.png" class="img-fluid" alt="Kirim dan Lacak Paket dengan Mudah melalui Platform Kurir Unggulan"></div>
                       <div class="portfolio-info">
                           <h4>Courier Platform</h4>
                           <p>Hantaran</p>
@@ -165,7 +165,7 @@
                   </div>
 
                   <div class="col-lg-6 col-md-6 portfolio-item">
-                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/topkarir.png" class="img-fluid" alt=""></div>
+                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/topkarir.png" class="img-fluid" alt="Temukan Peluang Karir yang Cocok di Portal Karir Unggulan"></div>
                       <div class="portfolio-info">
                           <h4>Career Portal</h4>
                           <p>TopKarir Indonesia</p>
@@ -175,7 +175,7 @@
                   </div>
 
                   <div class="col-lg-6 col-md-6 portfolio-item">
-                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/aua.png" class="img-fluid" alt=""></div>
+                      <div class="portfolio-img"><img src="<?php echo base_url('assets') ?>/img/portfolio/aua.png" class="img-fluid" alt="Forum Komunitas AUA - Diskusi Interaktif dengan Anggota"></div>
                       <div class="portfolio-info">
                           <h4>Forum Community</h4>
                           <p>APINDO</p>
